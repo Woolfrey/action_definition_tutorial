@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+   <!-- Package information: -->
+   <name>action_definition_tutorial</name>
+   <version>0.0.0</version>
+   <description>Demonstrates how to create and generate actions in ROS2.</description>
+   <maintainer email="jonathan.woolfrey@gmail.com">Woolfrey</maintainer>
+   <license>GNU General Public Licence GPLv3</license>
+
+   <!-- Basic requirements to build: -->
+   
+   <buildtool_depend>ament_cmake</buildtool_depend>
+
+   <test_depend>ament_lint_auto</test_depend>
+   <test_depend>ament_lint_common</test_depend>
+
+   <export>
+     <build_type>ament_cmake</build_type>
+   </export>
+   
+   <!-- These are needed to generate actions: -->
+  
+   <buildtool_depend>rosidl_default_generators</buildtool_depend>
+
+   <depend>action_msgs</depend>
+
+   <member_of_group>rosidl_interface_packages</member_of_group>
+   
+</package>
