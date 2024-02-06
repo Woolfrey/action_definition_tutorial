@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
    <!-- Package information: -->
-   <name>action_definition_tutorial</name>
+   <name>tutorial_action_definition</name>
    <version>0.0.0</version>
    <description>Demonstrates how to create and generate actions in ROS2.</description>
    <maintainer email="jonathan.woolfrey@gmail.com">Woolfrey</maintainer>
