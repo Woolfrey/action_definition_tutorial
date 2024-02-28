@@ -85,7 +85,7 @@ string current_line
 find_package(rosidl_default_generators REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
-                           "action/Fibonacci.action")
+                           "action/Haiku.action")
 ```
 6. Edit `package.xml` with the following:
 ```
