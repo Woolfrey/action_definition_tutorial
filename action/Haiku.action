@@ -1,0 +1,11 @@
+# Note: File name must begin with a capital letter
+
+# Goal
+int32 number_of_lines
+---
+# Result
+string poem
+---
+# Feedback
+int32 line_number
+string current_line

@@ -24,6 +24,6 @@ endif()
 find_package(rosidl_default_generators REQUIRED)                                                    # Needed to convert .action files to C++
 
 rosidl_generate_interfaces(${PROJECT_NAME}
-                           "action/Fibonacci.action")
+                           "action/Haiku.action")
 
 ament_package()
