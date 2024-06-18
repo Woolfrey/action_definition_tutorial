@@ -48,7 +48,7 @@ datatype result
 datatype feedback
 ```
 
-:arrow_backward: [Go back.](#ros2-tutorial-31-defining-an-action)
+[:arrow_backward: Go back.](#ros2-tutorial-31-defining-an-action)
 
 ## Defining an Action
 
@@ -111,4 +111,4 @@ You should see something like:
 
 <img src="https://github.com/Woolfrey/tutorial_action_definition/assets/62581255/0bd97acf-7ef7-4739-ab26-ac7378e496b7" alt="image" width="900" height="auto">
 
-:arrow_backward: [Go back.](#ros2-tutorial-31-defining-an-action)
+[:arrow_backward: Go back.](#ros2-tutorial-31-defining-an-action)
